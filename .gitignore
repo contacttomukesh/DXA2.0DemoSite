@@ -2,3 +2,6 @@
 packages/
 Site/bin/
 Site/obj/
+SDL.Web.Modules.Thumb/obj/
+SDL.Web.Modules.Thumb/bin/Release/
+SDL.Web.Modules.Thumb/bin/
